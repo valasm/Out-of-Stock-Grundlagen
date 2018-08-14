@@ -9,4 +9,5 @@
 * [Conclusion](06.-fazit.md)
 * [Literature](07.-quellenverzeichnis.md)
 * [Team members](01.-projektteilnehmer.md)
+* [General problems](general-problems.md)
 
